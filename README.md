@@ -17,8 +17,13 @@ My LeetCode solutions for practice.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Array
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
