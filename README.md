@@ -30,6 +30,7 @@ My LeetCode solutions for practice.
 | ------- |
 | [0051-n-queens](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -38,4 +39,8 @@ My LeetCode solutions for practice.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0079-word-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
