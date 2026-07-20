@@ -14,6 +14,7 @@ My LeetCode solutions for practice.
 | ------- |
 | [0022-generate-parentheses](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -32,6 +33,7 @@ My LeetCode solutions for practice.
 | [0051-n-queens](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -60,4 +62,8 @@ My LeetCode solutions for practice.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
