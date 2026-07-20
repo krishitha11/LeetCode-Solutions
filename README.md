@@ -31,6 +31,7 @@ My LeetCode solutions for practice.
 | ------- |
 | [0051-n-queens](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -41,6 +42,7 @@ My LeetCode solutions for practice.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0079-word-search) |
 ## Two Pointers
 |  |
@@ -54,4 +56,8 @@ My LeetCode solutions for practice.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
