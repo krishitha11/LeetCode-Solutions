@@ -34,6 +34,7 @@ My LeetCode solutions for practice.
 | [0053-maximum-subarray](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -66,4 +67,8 @@ My LeetCode solutions for practice.
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0055-jump-game) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
