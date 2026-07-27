@@ -43,6 +43,7 @@ My LeetCode solutions for practice.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishitha11/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -80,8 +81,13 @@ My LeetCode solutions for practice.
 | ------- |
 | [0056-merge-intervals](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishitha11/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishitha11/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
