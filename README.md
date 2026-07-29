@@ -10,6 +10,7 @@ My LeetCode solutions for practice.
 | [0022-generate-parentheses](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0079-word-search) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,6 +30,7 @@ My LeetCode solutions for practice.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Array
 |  |
 | ------- |
@@ -88,6 +90,7 @@ My LeetCode solutions for practice.
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -96,4 +99,9 @@ My LeetCode solutions for practice.
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
