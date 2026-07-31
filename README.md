@@ -9,6 +9,7 @@ My LeetCode solutions for practice.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0079-word-search) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
@@ -30,6 +31,7 @@ My LeetCode solutions for practice.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Array
 |  |
@@ -79,12 +81,14 @@ My LeetCode solutions for practice.
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishitha11/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
@@ -98,6 +102,7 @@ My LeetCode solutions for practice.
 ## Counting Sort
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
