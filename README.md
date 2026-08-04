@@ -33,6 +33,7 @@ My LeetCode solutions for practice.
 | [0073-set-matrix-zeroes](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Array
 |  |
 | ------- |
@@ -49,6 +50,7 @@ My LeetCode solutions for practice.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishitha11/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -90,6 +92,7 @@ My LeetCode solutions for practice.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishitha11/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
