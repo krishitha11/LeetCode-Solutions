@@ -55,6 +55,7 @@ My LeetCode solutions for practice.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0079-word-search) |
+| [3310-remove-methods-from-project](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -112,4 +113,12 @@ My LeetCode solutions for practice.
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
