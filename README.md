@@ -55,6 +55,7 @@ My LeetCode solutions for practice.
 | [0628-maximum-product-of-three-numbers](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishitha11/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/krishitha11/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/krishitha11/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishitha11/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
@@ -69,6 +70,7 @@ My LeetCode solutions for practice.
 | [0073-set-matrix-zeroes](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0079-word-search) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/krishitha11/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +89,7 @@ My LeetCode solutions for practice.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/krishitha11/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Greedy
 |  |
 | ------- |
@@ -107,6 +110,7 @@ My LeetCode solutions for practice.
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/krishitha11/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Heap (Priority Queue)
