@@ -57,6 +57,7 @@ My LeetCode solutions for practice.
 | [2213-longest-substring-of-one-repeating-character](https://github.com/krishitha11/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/krishitha11/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishitha11/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3731-find-missing-elements](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
@@ -71,6 +72,7 @@ My LeetCode solutions for practice.
 | [0074-search-a-2d-matrix](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/krishitha11/LeetCode-Solutions/tree/master/0079-word-search) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/krishitha11/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +107,7 @@ My LeetCode solutions for practice.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krishitha11/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3731-find-missing-elements](https://github.com/krishitha11/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
